@@ -1,5 +1,3 @@
-# IS218_HW8_3
-Second part of IS218_HW8
 # IS218_HW8
 # Devops - Automated Builds Pushing to DockerHub Intro
 
